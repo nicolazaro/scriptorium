@@ -1,0 +1,66 @@
+﻿Team charter / Contrato de equipo
+
+Last updated / Última actualización:
+2022-09-21 
+
+Group name / Nombre del Equipo:
+Scriptorium
+
+Roles / Roles
+Technical leader: Nicolás LÁZARO.
+Submitters: Daniela HERNÁNDEZ, Graciela CUTULI.
+
+Team Members / Integrantes del equipo
+* Graciela CUTULI, ella, she, Argentina, submitter.
+* Daniela HERNÁNDEZ, ella, she, Estados Unidos, submitter.
+* Nicolás LÁZARO, él, he, Argentina, technical lider.
+
+Goals / Objetivos
+* We want to learn how to create, manage and share a DH’s project.
+* Collaborate effectively with the team.
+* Learn to use tools like VS Code and GitHub for managing projects.
+* Get more confidence to work with digital projects.
+* Learn from our previous experiences and from our interactions.
+* Learn how to code. 
+
+* Queremos aprender a crear, administrar y compartir un proyecto de HD.
+* Colaborar eficazmente con el equipo.
+* Aprender a usar herramientas como VS Code y GitHub para administrar proyectos.
+* Ganar confianza para trabajar con proyectos digitales.
+* Aprender de nuestras experiencias previas y de nuestras interacciones.
+* Aprender a codificar.
+
+Core Values / Fundamentos
+
+Patience
+It is essential to assume beforehand, when working with people and in a team, that there are certain ways of speaking, saying and doing things that may not be liked or even disliked by the rest of the team members.
+
+Tolerance
+Before getting angry, offended or breaking the harmony and atmosphere of work, try to be patient and tolerant, for ourselves and others. Take care of ourselves, do not hurt each other and avoid useless arguments. Above all, respect in the discrepancy. We are not the center of the world, nor is ours the only valid opinion.
+
+Contemplate error as a possibility
+Error, at some point in the process, will show its face. At some point... or repeatedly. 
+
+Opportunity for learning and improvement
+For various reasons we make mistakes, so don't despair! We were waiting for it to review, learn (or relearn), and start again.
+
+Paciencia
+Es fundamental asumir de antemano, al trabajar con personas y en equipo, que hay determinadas formas de hablar, de decir y de hacer las cosas que pueden no gustar y hasta caer mal al resto de los integrantes del equipo.
+
+Tolerancia
+Antes de enojarnos, ofendernos o romper la armonía y atmósfera de trabajo, tratar de ser paciente y tolerante, para con nosotros mismos y los otros. Cuidarnos, no hacernos daño y evitar discusiones inútiles. Ante todo, respeto en la discrepancia. No somos el centro del mundo, ni la nuestra es la única opinión valedera.
+
+Contemplar el error como una posibilidad
+El error, en algún momento del proceso, mostrará la cara. En algún momento… o repetidamente. 
+
+Oportunidad de aprendizaje y superación
+Por diferentes motivos nos equivocamos. ¡A no desesperarse! Lo estábamos esperando para revisar, aprender (o reaprender), y volver a empezar.
+
+Team management / Gestión del equipo
+Para gestionar nuestro trabajo nos comunicaremos vía Whatsapp y además crearemos una bitácora (assignment tracker) para llevar seguimiento de las distintas actividades y tareas que debemos realizar. Ese documento nos permitirá saber quiénes han realizado las actividades y en qué fechas. Además nos reuniremos semanalmente los miércoles después de la clase. Las decisiones se tomarán en grupo, de manera abierta y respetuosa. Los roles que asumimos previamente no los ejerceremos desde un lugar de poder, sino de compromiso y responsabilidad.
+To manage our work we will communicate via Whatsapp and we will also create an assignment tracker to keep track of the different activities and tasks that we must carry out. This document will allow us to know who has carried out the activities and on what dates. We will also meet weekly on Wednesdays after class. Decisions will be made as a group, in an open and respectful manner. The roles that we previously assumed will not be exercised from a place of power, but rather one of commitment and responsibility.
+
+Ethos /Ethos
+* “Dum vita est, spes est! ¡Mientras tengamos vida, hay esperanza! As long as we have life, there is hope!”.
+* “If it doesn’t work, reset and reboot”. “Si no funciona, resetéalo”.
+* “With great power comes great responsibility” - “Todo gran poder conlleva una gran responsabilidad”.
