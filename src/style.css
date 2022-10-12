@@ -21,10 +21,14 @@ h2 {
     width: 50%;
     padding: 10px;
     height: 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
 }
 
 .row:after {
     content: "";
     display: table;
     clear: both;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
   }
