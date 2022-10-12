@@ -1,4 +1,4 @@
-const basePath = '/minimaldigipub2022-template'
+const basePath = '/scriptorium'
 
 module.exports = {
   pathPrefix: basePath,

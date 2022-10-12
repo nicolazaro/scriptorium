@@ -1,1 +1,12 @@
 /* Add your styles here! */
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: left;
+    color: darkgray;
+}
