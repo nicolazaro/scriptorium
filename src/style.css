@@ -30,3 +30,9 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
   }
+
+  .texto {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: rgb(129, 129, 129);
+  }
