@@ -1,7 +1,7 @@
 /* Add your styles here! */
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: larger;
 }
 
 p {
@@ -9,4 +9,9 @@ p {
     font-size: medium;
     text-align: left;
     color: darkgray;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
 }
