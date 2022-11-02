@@ -18,28 +18,28 @@
  <text>
    <body>
       <div>
-         <head>Monſieur Acarete du Biscay's Journey from Buenos Ayres to Peru.</head>
+         <head><roleName>Monſieur</roleName> <persName>Acarete du Biscay's</persName> Journey from <placeName>Buenos Ayres</placeName> to <placeName><country>Peru</country></placeName>.</head>
       </div>
       <div>
          <p>
-            <lb/>I Left Buenos Ayres, and took the Road I 
-            <lb/>to Cordoua, leaving Santa Fe on my 
+            <lb/>I Left <placeName>Buenos Ayres</placeName>, and took the Road I 
+            <lb/>to <placeName>Cordoua</placeName>, leaving <placeName>Santa Fe</placeName> on my 
             <lb/>right hand, of which place take this ac
             <lb/>count, 'tis a Spaniſh Settlement dependant 
-            <lb/>upon Buenos Ayres, the Commander is 
-            <lb/>no more than a Lieutenant, and does no
-            <lb/>thing but by order from the Governor 
-            <lb/>of Buenos Ayres. 'Tis a little place con
-            <lb/>taining 25 Houſes, without any Walls, 
-            <lb/>Fortifications, or Garriſon, diſtant 80 
-            <lb/>Leagues from Buenos Ayres Northward, 
-            <lb/>Situate upon the River de la Plata, large 
+            <lb/>upon <placeName>Buenos Ayres</placeName>, the <roleName>Commander</roleName> is 
+            <lb/>no more than a <roleName>Lieutenant</roleName>, and does no
+            <lb/>thing but by order from the <roleName>Governor</roleName> 
+            <lb/>of <placeName>Buenos Ayres</placeName>. 'Tis a little place con
+            <lb/>taining <measure>25 Houſes</measure>, without any Walls, 
+            <lb/>Fortifications, or Garriſon, diſtant <measure>80 
+            <lb/>Leagues</measure> from <placeName>Buenos Ayres</placeName> Northward, 
+            <lb/>Situate upon the <geogName>River de la Plata</geogName>, large 
             <lb/>Veſſels might come up to it, were it not 
             <lb/>for a great bank that obstructs the pas
-            <lb/>sage a little above Buenos Ayres. Ne
+            <lb/>sage a little above <placeName>Buenos Ayres</placeName>. Ne
             <lb/>vertheleſs 'tis a very advantageous Poſt, 
-            <lb/>because 'tis the only passage from Peru, 
-            <lb/>Chili and Tucuman to Paraguay, and in a 
+            <lb/>because 'tis the only passage from <placeName><country>Peru</country></placeName>, 
+            <lb/><placeName><country>Chili</country></placeName> and <placeName>Tucuman</placeName> to <placeName><country>Paraguay</country></placeName>, and in a 
             <lb/>manner the Magazine of the Commodi
             <lb/>ties
          </p>
