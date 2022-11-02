@@ -36,4 +36,8 @@ h2 {
     font-size: medium;
     color: rgb(129, 129, 129);
   }
-
+ 
+ tei-p {
+    text-align: justify;
+}
+    
