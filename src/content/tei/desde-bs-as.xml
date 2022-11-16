@@ -23,14 +23,11 @@
 
       <div>
          <p>
-            <lb break="no"/>Salí de <name type="place">Buenos Aires</name> y tomé el camino de <name type="place">Córdoba</name>, de-
-            <lb break="no"/>jando <reg>a</reg> <name type="place">Santa Fe</name> <reg>a</reg> <reg>mi</reg> derecha, de cuyo lugar, <reg>he</reg> aquí una relación:
+            <lb break="no"/>Salí de <name type="place">Buenos Aires</name> y tomé el camino de <name type="place">Córdoba</name>, de<lb break="no"/>jando <reg>a</reg> <name type="place">Santa Fe</name> <reg>a</reg> <reg>mi</reg> derecha, de cuyo lugar, <reg>he</reg> aquí una relación:
          </p>
          
          <p>
-            <lb break="no"/>Es una población española dependiente de <name type="place">Buenos Aires</name>
-            <lb break="no"/>siendo el comandante un mero teniente, quien nada hace sin orden del Gobernador de <name type="place">Buenos Aires</name>. Es una pequeña población, compuesta de 25 casas, sin murallas, fortifica-
-            <lb break="no"/>ciones, ni guarnición, distante de <name type="place">Buenos Aires</name> 80 leguas al
+            <lb break="no"/>Es una población española dependiente de <name type="place">Buenos Aires</name><lb break="no"/>siendo el comandante un mero teniente, quien nada hace sin orden del Gobernador de <name type="place">Buenos Aires</name>. Es una pequeña población, compuesta de 25 casas, sin murallas, fortifica<lb break="no"/>ciones, ni guarnición, distante de <name type="place">Buenos Aires</name> 80 leguas al
             <lb break="no"/>Norte. Situada sobre el <name type="placeGeog"><reg>Río</reg> de la Plata</name>, buques grandes po-
             <lb break="no"/>drían llegar hasta allí, si no fuese por un gran banco que obs-
             <lb break="no"/>truye el paso, un poco mas arriba de <name type="place">Buenos Aires</name>. Sin em-
@@ -43,7 +40,7 @@
          </p>
          
          <p>
-            <lb break="no"/>El suelo, aqui como en <name type="place">Buenos Aires</name>, es bueno y fértil,
+            <lb break="no"/>El suelo, <reg>aquí</reg> como en <name type="place">Buenos Aires</name>, es bueno y fértil,
             <lb break="no"/>y el pueblo, no difiriendo en nada remarcable de lo que ya
             <lb break="no"/>hemos observado en <name type="place">Buenos Aires</name>, le dejo y prosigo
             <lb break="no"/>mi viaje. Cuéntanse 140 leguas desde <name type="place">Buenos Aires</name> hasta <name type="place">Cór-
