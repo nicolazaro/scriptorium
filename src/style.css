@@ -45,5 +45,6 @@ h2 {
     float: left;
     width: 50%;
     column-gap: 30px;
+    padding: 5px;
 
 }    
