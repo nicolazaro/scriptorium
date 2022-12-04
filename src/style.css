@@ -21,6 +21,7 @@ h2 {
     width: 50%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
+    column-gap: 10px;
 }
 
 .row:after {
