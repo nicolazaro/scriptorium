@@ -41,4 +41,9 @@ h2 {
  tei-p {
     text-align: justify;
 }
-    
+.column_edition {
+    float: left;
+    width: 50%;
+    column-gap: 30px;
+
+}    
