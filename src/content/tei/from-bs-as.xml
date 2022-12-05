@@ -19,67 +19,100 @@
  <!--DANI-->
    <body>
       <div>
-         <head><roleName>Monſieur</roleName> <persName>Acarete du Biscay's</persName> Journey from <placeName>Buenos Ayres</placeName> to <placeName><country>Peru</country></placeName>.</head>
+         <head><name type="personRoleName"><reg>Monsieur</reg></name> <name type="person">Acarete du Biscay's</name> Journey from <name type="place">Buenos Ayres</name> to <name type="country">Peru</name>.</head>
       </div>
       <div>
          <p>
-            <lb/>I Left <placeName>Buenos Ayres</placeName>, and took the Road I 
-            <lb/>to <placeName>Cordoua</placeName>, leaving <placeName>Santa Fe</placeName> on my 
-            <lb/>right hand, of which place take this ac
-            <lb/>count, 'tis a Spaniſh Settlement dependant 
-            <lb/>upon <placeName>Buenos Ayres</placeName>, the <roleName>Commander</roleName> is 
-            <lb/>no more than a <roleName>Lieutenant</roleName>, and does no
-            <lb/>thing but by order from the <roleName>Governor</roleName> 
-            <lb/>of <placeName>Buenos Ayres</placeName>. 'Tis a little place con
-            <lb/>taining <measure>25 Houſes</measure>, without any Walls, 
-            <lb/>Fortifications, or Garriſon, diſtant <measure>80 
-            <lb/>Leagues</measure> from <placeName>Buenos Ayres</placeName> Northward, 
-            <lb/>Situate upon the <geogName>River de la Plata</geogName>, large 
-            <lb/>Veſſels might come up to it, were it not 
-            <lb/>for a great bank that obstructs the pas
-            <lb/>sage a little above <placeName>Buenos Ayres</placeName>. Ne
-            <lb/>vertheleſs 'tis a very advantageous Poſt, 
-            <lb/>because 'tis the only passage from <placeName><country>Peru</country></placeName>, 
-            <lb/><placeName><country>Chili</country></placeName> and <placeName>Tucuman</placeName> to <placeName><country>Paraguay</country></placeName>, and in a 
-            <lb/>manner the Magazine of the Commodi
-            <lb/>ties
+            <lb/>I Left <name type="place">Buenos Ayres</name>, and took the Road 
+            <lb/>to <name type="place">Cordoua</name>, leaving <name type="place">Santa Fe</name> on my 
+            <lb/>right hand, of which place take this ac-
+            <lb/>count, <choice><sic>'tis</sic><corr>it is</corr></choice> a <reg>Spanish</reg> Settlement dependant 
+            <lb/>upon <name type="place">Buenos Ayres</name>, the <name type="personRoleName">Commander</name> is 
+            <lb/>no more than a <name type="personRoleName">Lieutenant</name>, and does no-
+            <lb/>thing but by order from the <name type="personRoleName">Governor</name> 
+            <lb/>of <name type="place">Buenos Ayres</name>. <choice><sic>'Tis</sic><corr>it is</corr></choice> a little place con-
+            <lb/>taining <measure>25 <reg>Houses</reg></measure>, without any Walls, 
+            <lb/>Fortifications, or <reg>Garrison</reg>, <reg>distant</reg> <measure>80 
+            <lb/>Leagues</measure> from <name type="place">Buenos Ayres</name> Northward, 
+            <lb/>Situate upon the <name type="placeGeog">River de la Plata</name>, large 
+            <lb/><reg>Vessels</reg> might come up to it, were it not 
+            <lb/>for a great bank that <reg>obstructs</reg> the pas-
+            <lb/>sage a little above <name type="place">Buenos Ayres</name>. <reg>Ne-
+            <lb/>vertheless</reg> <choice><sic>'tis</sic><corr>it is</corr></choice> a very advantageous <reg>Post</reg>, 
+            <lb/>because <choice><sic>'tis</sic><corr>it is</corr></choice> the only passage from <name type="country">Peru</name>, 
+            <lb/><name type="country">Chili</name> and <name type="place">Tucuman</name> to <name type="country">Paraguay</name>, and in a 
+            <lb/>manner the Magazine of the Commodi-
+            <lb/><fw type="catch">ties</fw>
          </p>
       </div>
-      <div><p><lb/>ties drawn from thence, particularly that 
-      <lb/>Herb already ſpoken of, which they 
-      <lb/>cannot be without in thoſe Provinces. 
+      <div>
+      <p>
+      <lb/>ties drawn from thence, particularly that 
+      <lb/>Herb already <reg>spoken</reg> of, which they 
+      <lb/>cannot be without in <reg>those</reg> Provinces. 
       <lb/>The Soil is as good and Fertile here as 
-      <lb/>at <placeName>Buenos Ayres</placeName>; and the Town having 
+      <lb/>at <name type="place">Buenos Ayres</name>; and the Town having 
       <lb/>nothing remarkably different from what 
-      <lb/>has been observ'd of Buenos Ayres, I 
-      <lb/>leave it, and proceed upon my Jour
-      <lb/>ney. 'Tis counted 140 Leagues from 
-      <lb/>Buenos Ayres to Cordoua, and becauſe 
-      <lb/>ſome parts of the Road are uninhabited 
-      <lb/>for a long way together; I ſurnished 
-      <lb/>my ſelf at my departure with what I 
-      <lb/>was inform'd I ſhould ſtand in need 
-      <lb/>of; ſo I ſet out having a Savage for my 
-      <lb/>Guide, with Three Horſes and Three 
-      <lb/>Mules, ſome to carry my Baggage, and 
-      <lb/>the reſt to change upon the way when 
-      <lb/>that I rid upon was tired. 
-<lb/>From Buenos Ayres, to the River Lu
-<lb/>can, and even as far as the River Recife, 
-<lb/>30 Leagues, I pass’d by several Habita
+      <lb/>has been <choice><sic>observ'd</sic><corr>observed</corr></choice> of <name type="place">Buenos Ayres</name>, I 
+      <lb/>leave it, and proceed upon my Jour-
+      <lb/>ney. <choice><sic>'Tis</sic><corr>it is</corr></choice> counted <measure>140 Leagues</measure> from 
+      <lb/><name type="place">Buenos Ayres</name> to <name type="place">Cordoua</name>, and <reg>because</reg> 
+      <lb/><reg>some</reg> parts of the Road are uninhabited 
+      <lb/>for a long way together; I <reg>furnished</reg> 
+      <lb/>my <reg>self</reg> at my departure with what I 
+      <lb/>was <choice><sic>inform'd</sic><corr>informed</corr></choice> I <reg>should</reg> <reg>stand</reg> in need 
+      <lb/>of; <reg>so</reg> I <reg>set</reg> out having a <rs type="native_group" subtype="colonial_denomination">Savage</rs> for my 
+      <lb/><name type="personRoleName">Guide</name>, with Three <reg>Horses</reg> and Three 
+      <lb/>Mules, <reg>some</reg> to carry my Baggage, and 
+      <lb/>the <reg>rest</reg> to change upon the way when 
+      <lb/>that I rid upon was tired.</p> 
+<p>
+<lb/>From <name type="place">Buenos Ayres</name>, to the <name type="placeGeog">River Lu-
+<lb/>can</name>, and even as far as the <name type="placeGeog">River Recife</name>, 
+<lb/><measure>30 Leagues</measure>, I <choice><sic>pass’d</sic><corr>passed</corr></choice> by several Habita
 <lb/>tions and Farms cultivated by the Spani
-<lb/>ards, but beyond Recife to the River 
-<lb/>Salladillo, I ſaw none. Let it be obſer
-<lb/>ved by the way, that theſe Rivers as well 
-<lb/>as all the reſt in the Provinces of Buenos 
-<lb/>Ayres, Paraguay and Tucuman, that fall 
-<lb/>into the River de la Plata are fordable 
-<lb/>on Horſe-back; but when the Rains or 
-<lb/>any</p>
+<lb/>ards, but beyond <name type="place">Recife</name> to the <name type="placeGeog">River 
+<lb/>Salladillo</name>, I <reg>saw</reg> none. Let it be <reg>obser-
+<lb/>ved</reg> by the way, that <reg>these</reg> Rivers as well 
+<lb/>as all the <reg>rest</reg> in the Provinces of <name type="place">Buenos 
+<lb/>Ayres</name>, <name type="country">Paraguay</name> and <name type="place">Tucuman</name>, that fall 
+<lb/>into the <name type="placeGeog">River de la Plata</name> are fordable 
+<lb/>on <reg>Horse</reg>-back; but when the Rains or 
+<lb/>any
+</p>
 </div>
 <div>
-<p><lb/>any other accident ſwells them, a Tra<lb/>veller muſt either ſwim over, or elſe get <lb/>upon a bundle in the nature of a raft, <lb/>which a Savage hawls over to the other <lb/>ſide. I could not Swim, and ſo was <lb/>forc'd to make uſe of this expedient <lb/>twice or thrice when I could not find a <lb/>Ford. The way was this, my Indian <lb/>kill'd a Wild Bull, flead the Hide off, <lb/>ſtuffed it with ſtraw, and ty'd it up in <lb/>a great bundle with thongs of the ſame <lb/>Hide, upon which I plac'd my ſelf with <lb/>my Baggage ; he ſwam over hawling me <lb/>after him by a Cord ty'd to the bundle, <lb/>and then he repaſs'd and ſwam my Horſes <lb/>and Mules over to me.
-<lb/>All the Country between the River <lb/>Recife and Salladillo, tho' uninhabited, <lb/>abounds in Cattle and all ſorts of Fruit <lb/>trees, except Walnut and Chesnut-trees; <lb/>there are whole Woods of Nectarine-<lb/>Trees, Three or Four Leagues in compaſs, <lb/>that bear excellent Fruit, which they <lb/>not only eat raw, but bake them, or dry <lb/>them in the Sun, to keep, as we in France <lb/>do Prunes: They ſeldom uſe any other <lb/>than the Wood of this Tree for common <lb/>firing at Buenos Ayres, and thereabouts. <lb/>The Savages that dwell in theſe Parts are <lb/>diſtinguiſh'd into two sorts, those that <lb/>volun-</p>
+<p><lb/>any other accident <reg>swells</reg> them, a Tra-
+<lb/>veller <reg>must</reg> either <reg>swim</reg> over, or <reg>else</reg> get 
+<lb/>upon a bundle in the nature of a raft, 
+<lb/>which a <rs type="native_group" subtype="colonial_denomination">Savage</rs> hawls over to the other 
+<lb/><reg>side</reg>. I could not Swim, and <reg>so</reg> was 
+<lb/><choice><sic>forc'd</sic><corr>forced</corr></choice> to make <reg>use</reg> of this expedient 
+<lb/>twice or thrice when I could not find a 
+<lb/>Ford. The way was this, my <rs type="native_group" subtype="colonial_denomination">Indian</rs> 
+<lb/><choice><sic>kill'd</sic><corr>killed</corr></choice> a Wild Bull, flead the Hide off, 
+<lb/><reg>stuffed</reg> it with <reg>straw</reg>, and <choice><sic>ty'd</sic><corr>tied</corr></choice> it up in 
+<lb/>a great bundle with thongs of the <reg>same</reg> 
+<lb/>Hide, upon which I <choice><sic>plac'd</sic><corr>placed</corr></choice> my <reg>self</reg> with 
+<lb/>my Baggage ; he <reg>swam</reg> over hawling me 
+<lb/>after him by a Cord <choice><sic>ty'd</sic><corr>tied</corr></choice> to the bundle, 
+<lb/>and then he <reg><choice><sic>repass'd</sic><corr>repassed</corr></choice></reg> and <reg>swam</reg> my <reg>Horses</reg> 
+<lb/>and Mules over to me.
+<lb/>All the Country between the <name type="placeGeog">River 
+<lb/>Recife</name> and <name type="placeGeog">Salladillo</name>, <choice><sic>tho'</sic><corr>though</corr></choice> uninhabited, 
+<lb/>abounds in Cattle and all <reg>sorts</reg> of Fruit 
+<lb/>trees, except Walnut and Chesnut-trees; 
+<lb/>there are whole Woods of Nectarine-
+<lb/>Trees, <measure>Three or Four Leagues</measure> in <reg>compass</reg>, 
+<lb/>that bear excellent Fruit, which they 
+<lb/>not only eat raw, but bake them, or dry 
+<lb/>them in the Sun, to keep, as we in <name type="country">France</name> 
+<lb/>do Prunes: They <reg>seldom</reg> <reg>use</reg> any other 
+<lb/>than the Wood of this Tree for common 
+<lb/>firing at <name type="place">Buenos Ayres</name>, and thereabouts. 
+<lb/>The <rs type="native_group" subtype="colonial_denomination">Savages</rs> that dwell in <reg>these</reg> Parts are 
+<lb/><reg>distinguish'd</reg> into two sorts, those that 
+<lb/>volun-</p>
 </div>
 <!--GRACIELA-->
 <div><p><lb/>voluntarily ſubmit to the Spaniards are 
@@ -153,107 +186,106 @@
 
 <div>
    <p>
-      <lb/>full of the Fi<reg>s</reg>h, call'd Dorado, which is
-      <lb/>very good to eat. There is al<reg>s</reg>o a Crea-
-      <lb/>ture in it, whether 'tis Meat or Poy<reg>s</reg>on
-      <lb/>no body knows, it has Four Feet and a long Tail like a Lizard.
+      <lb/>full of the <reg>fish</reg>, <reg>called</reg> <reg><rs type="animal"><hi rendition="simple:italic">dorado</hi></rs></reg>, which is
+      <lb/>very good to eat. There is al<reg>s</reg>o a <reg>crea-
+      <lb/>ture</reg> in it, whether <reg>its</reg> <reg>meat</reg> or <reg>poison</reg>
+      <lb/>no body knows, it has <reg>four</reg> <reg>feet</reg> and a long <reg>tail</reg> like a <reg>lizard</reg>.
    </p>
    <p>
-      <lb/>From Salladillo quite to Cordoua, you
-      <lb/>go along a very fine River, that abounds
-      <lb/>with Fi<reg>s</reg>h, which is neither wide
+      <lb/>From <hi rendition="simple:italic">Saladillo</hi> quite to <reg><hi rendition="simple:italic">Córdoba</hi></reg>, you
+      <lb/>go along a very fine <reg>river</reg>, that abounds
+      <lb/>with <reg>fish</reg>, which is neither wide
       <lb/>nor deep, for it may be forded over. On
-      <lb/>the Bank of it you meet with little Plan-
-      <lb/>tations every Three or Four Leagues ;
-      <lb/>which are like Country Hou<reg>s</reg>es inhabi-
-      <lb/>ted by Spaniards, Portuguese, and the Na-
+      <lb/>the <reg>bank</reg> of it you meet with little <reg>plan-
+      <lb/>tations</reg> every <reg>three</reg> or <reg>four</reg> <reg>leagues</reg>;
+      <lb/>which are like <reg>country</reg> <reg>houses</reg> inhabi-
+      <lb/>ted by <hi rendition="simple:italic">Spaniards</hi>, <hi rendition="simple:italic">Portuguese</hi>, and the Na-
       <lb/>tives, who have all the nece<reg>s</reg><reg>s</reg>ary acco-
-      <lb/>modation<reg>s</reg> of Life they can wi<reg>s</reg>h, and
-      <lb/>are very Civil and Charitable to Stran-
-      <lb/>gers; their principal Wealth is in Hor-
-      <lb/><reg>s</reg>es and Mules, in which they Trade with
-      <lb/>the Inhabitants of Peru.
+      <lb/>modation<reg>s</reg> of <reg>life</reg> they can wi<reg>s</reg>h, and
+      <lb/>are very <reg>civil</reg> and <reg>charitable</reg> to <reg>stran-
+      <lb/>gers</reg>; their principal <reg>wealth</reg> is in <reg>hor-
+      <lb/>ses</reg> and <reg>mules</reg>, in which they <reg>trade</reg> with
+      <lb/>the <reg>inhabitants</reg> of <reg><name type="country"><hi rendition="simple:italic">Perú</hi></name></reg>.
    </p>
    <p>
-      <lb/>Cordoua is a Town Situate in a plea<reg>s</reg>ant
-      <lb/>and fruitful Plain upon the <reg>s</reg>ide of a
+      <lb/><name type="place"><reg><hi rendition="simple:italic">Córdoba</hi></reg></name> is a <reg>town</reg> <reg>situate</reg> in a plea<reg>s</reg>ant
+      <lb/>and fruitful <reg>plain</reg> upon the <reg>s</reg>ide of a
       <lb/>River, bigger and broader than that I
-      <lb/>have ju<reg>s</reg>t <reg>s</reg>poken of : 'Tis compos’d of
-      <lb/>about 400 Houses, Built like tho<reg>s</reg>e of
-      <lb/>Buenos Ayres. It has neither Ditches,
-      <lb/>nor Walls, nor Fort for its defence; He
-      <lb/>that Commands it is Governor of all the
-      <lb/>Provinces of Tucuman, and tho’ it be
-      <lb/>the place of his ordinary Residence, yet
+      <lb/>have ju<reg>s</reg>t <reg>s</reg>poken of : <choice><sic>'tis</sic><corr>this</corr></choice> <choice><sic>compos’d</sic><corr>composed</corr></choice> of
+      <lb/>about 400 <reg>houses</reg>, <reg>built</reg> like tho<reg>s</reg>e of
+      <lb/><name type="place"><reg><hi rendition="simple:italic">Buenos Aires</hi></reg></name>. It has neither <reg>ditches</reg>,
+      <lb/>nor <reg>walls</reg>, nor <reg>fort</reg> for its defence; <reg>he</reg>
+      <lb/>that <reg>commands</reg> it is Governor of all the
+      <lb/>Provinces of <name type="place"><reg><hi rendition="simple:italic">Tucumán</hi></reg></name>, and <choice><sic>tho’</sic><corr>those</corr></choice> it be
+      <lb/>the place of his ordinary <reg>residence</reg>, yet
       <lb/>he is wont now and then, as he <reg>s</reg>ees oc-
-      <lb/>ca<reg>s</reg>ion,
+      <lb/><fw type="catch">ca<reg>s</reg>ion,</fw>
    </p>
 </div>
 
 <div>
    <p>
-      <lb/>ca<reg>s</reg>ion, to go and pa<reg>s</reg>s <reg>s</reg>ome time at St.
-      <lb/>Jago de l’E<reg>s</reg>tro, at St. Miguel de Tucuman,
+      <lb/>ca<reg>s</reg>ion, to go and pa<reg>s</reg>s <reg>s</reg>ome time at <hi rendition="simple:italic"><name type="place"><reg>Santiago del Estero</reg></name></hi>, at <name type="place"><reg><hi rendition="simple:italic">San Miguel de Tucumán</hi></reg></name>,
       <lb/>(which is the Capital City of the Province)
-      <lb/>at Salta and at Xuxui. In each of the<reg>s</reg>e
-      <lb/>Villages there is a Lieutenant, who has
-      <lb/>under him an Alcalde and <reg>s</reg>ome Officers
+      <lb/>at <name type="place"><hi rendition="simple:italic">Salta</hi></name> and <name type="place"><choice><orig>Xuxui</orig><reg>Jujuy</reg></choice></name>. In each of the<reg>s</reg>e
+      <lb/><reg>villages</reg> there is a <name type="personRoleName">Lieutenant</name>, who has
+      <lb/>under him an <name type="personRoleName">Alcalde</name> and <reg>s</reg>ome <reg>officers</reg>
       <lb/>for the Admini<reg>s</reg>tration of Ju<reg>s</reg>tice. The
-      <lb/>Bi<reg>s</reg>hop of Tucuman likewi<reg>s</reg>e u<reg>s</reg>ually re-
-      <lb/><reg>s</reg>ides at Cordoua, where the Cathedral
+      <lb/>Bi<reg>s</reg>hop of <name type="place"><reg><hi rendition="simple:italic">Tucumán</hi></reg></name> likewi<reg>s</reg>e u<reg>s</reg>ually re-
+      <lb/><reg>s</reg>ides at <name type="place"><reg><hi rendition="simple:italic">Córdoba</hi></reg></name>, where the Cathedral
       <lb/>is the only Pari<reg>s</reg>h Church of the whole
-      <lb/>Town, but there are divers Convents
-      <lb/>of Monks, namely of Dominicans, Recol-
-      <lb/>lects, and those of the Order de la Mer-
-      <lb/>cy: and one of Nunns. The Jesuits
+      <lb/><reg>town</reg>, but there are divers Convents
+      <lb/>of Monks, namely of <hi rendition="simple:italic"><rs  type="religion">Dominicans</rs></hi>, <hi rendition="simple:italic"><rs  type="religion">Recol-
+      <lb/>lects</rs></hi>, and those of the <hi rendition="simple:italic"><rs type="religion">Order de la Mer-
+      <lb/>cy</rs></hi>: and one of Nunns. The <hi rendition="simple:italic"><rs type="religion">Jesuits</rs></hi>
       <lb/>have a College there, and their Chappel
       <lb/>is the fine<reg>s</reg>t and riche<reg>s</reg>t of all.
    </p>
    <p>
-      <lb/>The Inhabitants are Rich in Gold
-      <lb/>and Silver, which they get by the Trade
-      <lb/>they have for Mules, with which they
-      <lb/>furni<reg>s</reg>h Peru and other Parts; which is
+      <lb/>The <reg>inhabitants</reg> are <reg>rich</reg> in <reg>gold</reg>
+      <lb/>and <reg>silver</reg>, which they get by the <reg>trade</reg>
+      <lb/>they have for <reg>mules</reg>, with which they
+      <lb/>furni<reg>s</reg>h <name type="country"><reg>Perú</reg></name> and other <reg>parts</reg>; which is
       <lb/><reg>s</reg>o con<reg>s</reg>iderable, that they <reg>s</reg>ell about 28
-      <lb/>or 30000 of 'em every Year, which they
-      <lb/>breed up in their Farms. They usually
-      <lb/>keep 'em till they are about Two Years
-      <lb/>old, then expose 'em to Sale, and have
-      <lb/>about Six Patagons a piece for 'em. The
-      <lb/>Merchants that come to buy 'em, carry
-      <lb/>'em to St. Jago, to Salta and Xuxui ,
-      <lb/>where they leave 'em for Three Years,
+      <lb/>or 30000 of <choice><sic>'em</sic><corr>them</corr></choice> every <reg>year</reg>, which they
+      <lb/>breed up in their <reg>farms</reg>. They usually
+      <lb/>keep <choice><sic>'em</sic><corr>them</corr></choice> till they are about <reg>two</reg> <reg>years</reg>
+      <lb/>old, then expose <choice><sic>'em</sic><corr>them</corr></choice> to Sale, and have
+      <lb/>about <reg>six</reg> <rs type="native_group" subtype="colonial_denomination">Patagons</rs> a piece for <choice><sic>'em</sic><corr>them</corr></choice>. The
+      <lb/><reg>merchants</reg> that come to buy <choice><sic>'em</sic><corr>them</corr></choice>, carry
+      <lb/><choice><sic>'em</sic><corr>them</corr></choice> to <name type="place"><reg><hi rendition="simple:italic">Santiago</hi></reg></name>, to <name type="place"><hi rendition="simple:italic">Salta</hi></name> and <choice><orig>Xuxui</orig><reg>Jujuy</reg></choice> ,
+      <lb/>where they leave <choice><sic>'em</sic><corr>them</corr></choice> for <reg>three</reg> <reg>years</reg>,
       <lb/>till they are well grown and become
-      <lb/><reg>s</reg>trong,
+      <lb/><fw type="catch"><reg>s</reg>trong,</fw>
    </p>
 </div>
 
 <div>
    <p>
-      <lb/><reg>s</reg>trong, and afterwards bring 'em to Pe-
-      <lb/>ru, where they pre<reg>s</reg>ently have Vent for
-      <lb/>'em, becau<reg>s</reg>e there as well as in the re<reg>s</reg>t 
-      <lb/>of the Western part of America, the
+      <lb/><reg>s</reg>trong, and afterwards bring <choice><sic>'em</sic><corr>them</corr></choice> to <name type="country"><reg>Pe-
+      <lb/>rú</reg></name>, where they pre<reg>s</reg>ently have <reg>vent</reg> for
+      <lb/><choice><sic>'em</sic><corr>them</corr></choice>, becau<reg>s</reg>e there as well as in the re<reg>s</reg>t 
+      <lb/>of the Western part of <name type="place" subtype="continent">><hi rendition="simple:italic">America</hi></name>, the
       <lb/>greate<reg>s</reg>t part of their Carriage is upon
-      <lb/>Mules. The People of Cordoua al<reg>s</reg>o
+      <lb/><reg>mules</reg>. The <reg>people</reg> of <reg><hi rendition="simple:italic">Córdoba</hi></reg> al<reg>s</reg>o
       <lb/>drive a Trade in Cow<reg>s</reg>, which they have
-      <lb/>from the Countrey of Buenos Ayres, and
-      <lb/>carry to Peru, where without this way
+      <lb/>from the <reg>country</reg> of <name type="place"><reg><hi rendition="simple:italic">Buenos Aires</hi></reg></name>, and
+      <lb/>carry to <name type="country"><reg>Perú</reg></name>, where without this way
       <lb/>of Sub<reg>s</reg>i<reg>s</reg>tance 'tis certain they would
       <lb/>have much ado to live. This kind of
-      <lb/>Traffick makes this Town the mo<reg>s</reg>t con-
-      <lb/><reg>s</reg>iderable in the Province of Tucuman,
-      <lb/>as well for its Riches and Commodities,
-      <lb/>as for the Number of its Inhabitants,
+      <lb/><reg>traffick</reg> makes this <reg>town</reg> the mo<reg>s</reg>t con-
+      <lb/><reg>s</reg>iderable in the Province of <name type="place"><reg><hi rendition="simple:italic">Tucumán</hi></reg></name>,
+      <lb/>as well for its <reg>riches</reg> and commo<reg></reg>dities,
+      <lb/>as for the <reg>number</reg> of its <reg>inhabitants</reg>,
       <lb/>which are counted to be at lea<reg>s</reg>t 5 or
-      <lb/>600 Families, be<reg>s</reg>ides Slaves who are
+      <lb/>600 <reg>families</reg>, be<reg>s</reg>ides <reg>slaves</reg> who are
       <lb/>three times the number. But the gene
-      <lb/>-rality of 'em of all degrees have no other
-      <lb/>Arms but a Sword and Poignard, and
-      <lb/>are very indifferent Souldiers, the Air
-      <lb/>of the Country, and the Plenty they
-      <lb/>enjoy, rendring them Lazy and Cow-
-      <lb/>ardly.
+      <lb/>-rality of <choice><sic>'em</sic><corr>them</corr></choice> of all degrees have no other
+      <lb/><reg>arms</reg> but a <reg>sword</reg> and <reg>poignard</reg>, and
+      <lb/>are very indifferent <reg>soldiers</reg>, the <reg>air</reg>
+      <lb/>of the <reg>country</reg>, and the <reg>plenty</reg> they
+      <lb/>enjoy, rendring them <reg>lazy</reg> and <reg>cow-
+      <lb/>ardly</reg>.
    </p>
 </div>
 
