@@ -155,12 +155,12 @@
 <div>
 <p>
 <lb/>encuéntranse haciendas <reg>a</reg> cada tres <reg>o</reg> cuatro leguas, que son
-<lb/>como casas de campo, habitadas por españoles, portugue
-<lb/>ses <reg>e</reg> hijos del país en donde tienen todas las comodidades 
+<lb/>como casas de campo, habitadas por <rs type="nationality">españoles</rs>, <rs type="nationality">portugue
+<lb/>ses</rs> <reg>e</reg> <rs type="native_group">hijos del país</rs> en donde tienen todas las comodidades 
 <lb/>de la vida que pueden apetecer, y son muy corteses y cari
 <lb/>tativos para con los <reg>extraños</reg>. Su principal riqueza con
-<lb/>siste en caballos y mulas, con los que trafican con los ha
-<lb/>bitantes de <name type="place">Perú</name>.
+<lb/>siste en <rs type="animal">caballos</rs> y <rs type="animal">mulas</rs>, con los que trafican con los <rs type="native_group">ha
+<lb/>bitantes de <name type="place">Perú</name></rs>.
 <lb/><name type="place">Córdoba</name> es un pueblo situado en una <name type="placeGeog">llanura</name> agradable
 <lb/>y feraz, <reg>a</reg> la margen de un <name type="placeGeog"><reg>río</reg></name> <reg>más</reg> grande y <reg>más</reg> ancho que
 <lb/>el de que acabo de hablar. Se compone como de 400 ca
@@ -171,17 +171,17 @@
 <lb/>bargo, acostumbra de vez en cuando, según lo cree conve
 <lb/>niente, ir <reg>a</reg> pasar algún tiempo en <name type="place">Santiago del Estero</name>, en
 <lb/><name type="place">San Miguel de <reg>Tucumán</reg></name> (que es la ciudad capital de la <reg>pro
-<lb/>vincia</reg>) en <name type="place">Salta</name> <reg>o</reg> en <name type="place"><reg>Jujuy</reg></name>. En cada uno de estos pueblitos 
+<lb/>vincia</reg>) en <name type="place">Salta</name> <reg>o</reg> en <choice><orig>Xuxui</orig><reg>Jujuy</reg></choice>. En cada uno de estos pueblitos 
 <lb/>existe un teniente, que tiene bajo sus órdenes un Alcalde y
 <lb/>algunos oficiales para la administración de justicia. El
 <lb/>obispo de <name type="place"><reg>Tucumán</reg></name> también reside ordinariamente en <name type="place">Cór
 <lb/>doba</name>, en donde la Catedral es la única iglesia parroquial
 <lb/>que hay en todo el pueblo; pero hay varios conventos de
-<lb/>frailes, <reg>a</reg> saber, de <reg>dominicos</reg>, <reg>recoletos</reg>, y de la Orden de
-<lb/>la Merced; y uno de monjas. Los <reg>jesuitas</reg> tienen <reg>allí</reg> un
+<lb/>frailes, <reg>a</reg> saber, de <rs type="native_group"><reg>dominicos</reg></rs>, <rs type="native_group"><reg>recoletos</reg></rs>, y de la <rs type="native_group">Orden de
+<lb/>la Merced</rs>; y uno de monjas. Los <rs type="native_group"><reg>jesuitas</reg></rs> tienen <reg>allí</reg> un
 <lb/>colegio, y su <reg>capilla</reg> es la <reg>más</reg> rica y mas hermosa de todas.
 <lb/>Los habitantes son ricos en oro y plata, adquiridos por
-<lb/>el comercio que hacen de mulas, supliendo de ellas al <name type="place">Perú</name>
+<lb/>el comercio que hacen de <rs type="animal">mulas</rs>, supliendo de ellas al <name type="place">Perú</name>
 <lb/>y otros puntos; y es tan considerable <reg>este</reg> que venden de 28
 <lb/><reg>a</reg> <reg>30.000</reg> al año, que <reg>crían</reg> en sus haciendas. Generalmente
 <lb/>las conservan hasta que tienen dos años poniéndolas en-
@@ -192,20 +192,20 @@
 <p>
 <pb/><lb/>tonces <reg>a</reg> venta, obteniendo por ellas <reg>a</reg> razón como de seis
 <lb/>patacones por cada una. Los mercaderes que vienen <reg>a</reg>
-<lb/>comprarlas las llevan <reg>a</reg> <name type="place">Santiago</name>, <reg>a</reg> <name type="place">Salta</name> y <reg>a</reg> <name type="place"><reg>Jujuy</reg></name>, donde
+<lb/>comprarlas las llevan <reg>a</reg> <name type="place">Santiago</name>, <reg>a</reg> <name type="place">Salta</name> y <reg>a</reg> <choice><orig>Xuxui</orig><reg>Jujuy</reg></choice>, donde
 <lb/>las conservan tres años hasta que se hayan creado y robus
 <lb/>tecido bien, llevándolas después al <name type="place">Perú</name>, en donde las ven
 <lb/>den sin demora, porque <reg>allí</reg>, como en el resto de la <name type="place">América</name>
 <lb/>occidental, la mayor parte de las conducciones se hacen <reg>a</reg>
-<lb/>lomo de mula.
-<lb/>Las gentes de <name type="place">Córdoba</name> trafican también en vacas que
+<lb/>lomo de <rs type="animal">mula</rs>.
+<lb/>Las gentes de <name type="place">Córdoba</name> trafican también en <rs type="animal">vacas</rs> que
 <lb/>conducen desde los campos de <name type="place">Buenos Aires</name> hasta el <name type="place">Perú</name>
 <lb/>en donde, sin este medio de subsistencia, ciertamente les
 <lb/><reg>sería</reg> muy difícil vivir. Este negocio hace que este pueblo
-<lb/>sea el mas considerable de los de la <reg>provincia</reg> de <name type="place"><reg>Tucumán</reg></name>,
+<lb/>sea el <reg>más</reg> considerable de los de la <reg>provincia</reg> de <name type="place"><reg>Tucumán</reg></name>,
 <lb/>tanto por sus riquezas y artículos de comercio, cuanto por
 <lb/>el número de sus habitantes, que se calculan entre quinien
-<lb/>tas <lb/> seiscientas familias, ademas de los esclavos, que mon
+<lb/>tas <lb/> seiscientas familias, <reg>además</reg> de los esclavos, que mon
 <lb/>tan <lb/> tres tantos <reg>más</reg>.
 <lb/>Pero las clases todas, en general, no tienen <reg>más</reg> arma que
 <lb/>espada y puñal, y como soldados son de muy escaso méri
