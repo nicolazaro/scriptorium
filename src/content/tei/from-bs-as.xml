@@ -19,67 +19,100 @@
  <!--DANI-->
    <body>
       <div>
-         <head><roleName>Monſieur</roleName> <persName>Acarete du Biscay's</persName> Journey from <placeName>Buenos Ayres</placeName> to <placeName><country>Peru</country></placeName>.</head>
+         <head><name type="personRoleName"><reg>Monsieur</reg></name> <name type="person">Acarete du Biscay's</name> Journey from <name type="place">Buenos Ayres</name> to <name type="country">Peru</name>.</head>
       </div>
       <div>
          <p>
-            <lb/>I Left <placeName>Buenos Ayres</placeName>, and took the Road I 
-            <lb/>to <placeName>Cordoua</placeName>, leaving <placeName>Santa Fe</placeName> on my 
-            <lb/>right hand, of which place take this ac
-            <lb/>count, 'tis a Spaniſh Settlement dependant 
-            <lb/>upon <placeName>Buenos Ayres</placeName>, the <roleName>Commander</roleName> is 
-            <lb/>no more than a <roleName>Lieutenant</roleName>, and does no
-            <lb/>thing but by order from the <roleName>Governor</roleName> 
-            <lb/>of <placeName>Buenos Ayres</placeName>. 'Tis a little place con
-            <lb/>taining <measure>25 Houſes</measure>, without any Walls, 
-            <lb/>Fortifications, or Garriſon, diſtant <measure>80 
-            <lb/>Leagues</measure> from <placeName>Buenos Ayres</placeName> Northward, 
-            <lb/>Situate upon the <geogName>River de la Plata</geogName>, large 
-            <lb/>Veſſels might come up to it, were it not 
-            <lb/>for a great bank that obstructs the pas
-            <lb/>sage a little above <placeName>Buenos Ayres</placeName>. Ne
-            <lb/>vertheleſs 'tis a very advantageous Poſt, 
-            <lb/>because 'tis the only passage from <placeName><country>Peru</country></placeName>, 
-            <lb/><placeName><country>Chili</country></placeName> and <placeName>Tucuman</placeName> to <placeName><country>Paraguay</country></placeName>, and in a 
-            <lb/>manner the Magazine of the Commodi
-            <lb/>ties
+            <lb/>I Left <name type="place">Buenos Ayres</name>, and took the Road 
+            <lb/>to <name type="place">Cordoua</name>, leaving <name type="place">Santa Fe</name> on my 
+            <lb/>right hand, of which place take this ac-
+            <lb/>count, <choice><sic>'tis</sic><corr>this</corr></choice> a <reg>Spanish</reg> Settlement dependant 
+            <lb/>upon <name type="place">Buenos Ayres</name>, the <name type="personRoleName">Commander</name> is 
+            <lb/>no more than a <name type="personRoleName">Lieutenant</name>, and does no-
+            <lb/>thing but by order from the <name type="personRoleName">Governor</name> 
+            <lb/>of <name type="place">Buenos Ayres</name>. <choice><sic>'Tis</sic><corr>this</corr></choice> a little place con-
+            <lb/>taining <measure>25 <reg>Houses</reg></measure>, without any Walls, 
+            <lb/>Fortifications, or <reg>Garrison</reg>, <reg>distant</reg> <measure>80 
+            <lb/>Leagues</measure> from <name type="place">Buenos Ayres</name> Northward, 
+            <lb/>Situate upon the <name type="placeGeog">River de la Plata</name>, large 
+            <lb/><reg>Vessels</reg> might come up to it, were it not 
+            <lb/>for a great bank that <reg>obstructs</reg> the pas-
+            <lb/>sage a little above <name type="place">Buenos Ayres</name>. <reg>Ne-
+            <lb/>vertheless</reg> <choice><sic>'tis</sic><corr>this</corr></choice> a very advantageous <reg>Post</reg>, 
+            <lb/>because <choice><sic>'tis</sic><corr>this</corr></choice> the only passage from <name type="country">Peru</name>, 
+            <lb/><name type="country">Chili</name> and <name type="place">Tucuman</name> to <name type="country">Paraguay</name>, and in a 
+            <lb/>manner the Magazine of the Commodi-
+            <lb/><fw type="catch">ties</fw>
          </p>
       </div>
-      <div><p><lb/>ties drawn from thence, particularly that 
-      <lb/>Herb already ſpoken of, which they 
-      <lb/>cannot be without in thoſe Provinces. 
+      <div>
+      <p>
+      <lb/>ties drawn from thence, particularly that 
+      <lb/>Herb already <reg>spoken</reg> of, which they 
+      <lb/>cannot be without in <reg>those</reg> Provinces. 
       <lb/>The Soil is as good and Fertile here as 
-      <lb/>at <placeName>Buenos Ayres</placeName>; and the Town having 
+      <lb/>at <name type="place">Buenos Ayres</name>; and the Town having 
       <lb/>nothing remarkably different from what 
-      <lb/>has been observ'd of Buenos Ayres, I 
-      <lb/>leave it, and proceed upon my Jour
-      <lb/>ney. 'Tis counted 140 Leagues from 
-      <lb/>Buenos Ayres to Cordoua, and becauſe 
-      <lb/>ſome parts of the Road are uninhabited 
-      <lb/>for a long way together; I ſurnished 
-      <lb/>my ſelf at my departure with what I 
-      <lb/>was inform'd I ſhould ſtand in need 
-      <lb/>of; ſo I ſet out having a Savage for my 
-      <lb/>Guide, with Three Horſes and Three 
-      <lb/>Mules, ſome to carry my Baggage, and 
-      <lb/>the reſt to change upon the way when 
-      <lb/>that I rid upon was tired. 
-<lb/>From Buenos Ayres, to the River Lu
-<lb/>can, and even as far as the River Recife, 
-<lb/>30 Leagues, I pass’d by several Habita
+      <lb/>has been <choice><sic>observ'd</sic><corr>observed</corr></choice> of <name type="place">Buenos Ayres</name>, I 
+      <lb/>leave it, and proceed upon my Jour-
+      <lb/>ney. <choice><sic>'Tis</sic><corr>this</corr></choice> counted <measure>140 Leagues</measure> from 
+      <lb/><name type="place">Buenos Ayres</name> to <name type="place">Cordoua</name>, and <reg>because</reg> 
+      <lb/><reg>some</reg> parts of the Road are uninhabited 
+      <lb/>for a long way together; I <reg>furnished</reg> 
+      <lb/>my <reg>self</reg> at my departure with what I 
+      <lb/>was <choice><sic>inform'd</sic><corr>informed</corr></choice> I <reg>should</reg> <reg>stand</reg> in need 
+      <lb/>of; <reg>so</reg> I <reg>set</reg> out having a <rs type="native_group" subtype="colonial_denomination">Savage</rs> for my 
+      <lb/><name type="personRoleName">Guide</name>, with Three <reg>Horses</reg> and Three 
+      <lb/>Mules, <reg>some</reg> to carry my Baggage, and 
+      <lb/>the <reg>rest</reg> to change upon the way when 
+      <lb/>that I rid upon was tired.</p> 
+<p>
+<lb/>From <name type="place">Buenos Ayres</name>, to the <name type="placeGeog">River Lu-
+<lb/>can</name>, and even as far as the <name type="placeGeog">River Recife</name>, 
+<lb/><measure>30 Leagues</measure>, I <choice><sic>pass’d</sic><corr>passed</corr></choice> by several Habita
 <lb/>tions and Farms cultivated by the Spani
-<lb/>ards, but beyond Recife to the River 
-<lb/>Salladillo, I ſaw none. Let it be obſer
-<lb/>ved by the way, that theſe Rivers as well 
-<lb/>as all the reſt in the Provinces of Buenos 
-<lb/>Ayres, Paraguay and Tucuman, that fall 
-<lb/>into the River de la Plata are fordable 
-<lb/>on Horſe-back; but when the Rains or 
-<lb/>any</p>
+<lb/>ards, but beyond <name type="place">Recife</name> to the <name type="placeGeog">River 
+<lb/>Salladillo</name>, I <reg>saw</reg> none. Let it be <reg>obser-
+<lb/>ved</reg> by the way, that <reg>these</reg> Rivers as well 
+<lb/>as all the <reg>rest</reg> in the Provinces of <name type="place">Buenos 
+<lb/>Ayres</name>, <name type="country">Paraguay</name> and <name type="place">Tucuman</name>, that fall 
+<lb/>into the <name type="placeGeog">River de la Plata</name> are fordable 
+<lb/>on <reg>Horse</reg>-back; but when the Rains or 
+<lb/>any
+</p>
 </div>
 <div>
-<p><lb/>any other accident ſwells them, a Tra<lb/>veller muſt either ſwim over, or elſe get <lb/>upon a bundle in the nature of a raft, <lb/>which a Savage hawls over to the other <lb/>ſide. I could not Swim, and ſo was <lb/>forc'd to make uſe of this expedient <lb/>twice or thrice when I could not find a <lb/>Ford. The way was this, my Indian <lb/>kill'd a Wild Bull, flead the Hide off, <lb/>ſtuffed it with ſtraw, and ty'd it up in <lb/>a great bundle with thongs of the ſame <lb/>Hide, upon which I plac'd my ſelf with <lb/>my Baggage ; he ſwam over hawling me <lb/>after him by a Cord ty'd to the bundle, <lb/>and then he repaſs'd and ſwam my Horſes <lb/>and Mules over to me.
-<lb/>All the Country between the River <lb/>Recife and Salladillo, tho' uninhabited, <lb/>abounds in Cattle and all ſorts of Fruit <lb/>trees, except Walnut and Chesnut-trees; <lb/>there are whole Woods of Nectarine-<lb/>Trees, Three or Four Leagues in compaſs, <lb/>that bear excellent Fruit, which they <lb/>not only eat raw, but bake them, or dry <lb/>them in the Sun, to keep, as we in France <lb/>do Prunes: They ſeldom uſe any other <lb/>than the Wood of this Tree for common <lb/>firing at Buenos Ayres, and thereabouts. <lb/>The Savages that dwell in theſe Parts are <lb/>diſtinguiſh'd into two sorts, those that <lb/>volun-</p>
+<p><lb/>any other accident <reg>swells</reg> them, a Tra-
+<lb/>veller <reg>must</reg> either <reg>swim</reg> over, or <reg>else</reg> get 
+<lb/>upon a bundle in the nature of a raft, 
+<lb/>which a <rs type="native_group" subtype="colonial_denomination">Savage</rs> hawls over to the other 
+<lb/><reg>side</reg>. I could not Swim, and <reg>so</reg> was 
+<lb/><choice><sic>forc'd</sic><corr>forced</corr></choice> to make <reg>use</reg> of this expedient 
+<lb/>twice or thrice when I could not find a 
+<lb/>Ford. The way was this, my <rs type="native_group" subtype="colonial_denomination">Indian</rs> 
+<lb/><choice><sic>kill'd</sic><corr>killed</corr></choice> a Wild Bull, flead the Hide off, 
+<lb/><reg>stuffed</reg> it with <reg>straw</reg>, and <choice><sic>ty'd</sic><corr>tied</corr></choice> it up in 
+<lb/>a great bundle with thongs of the <reg>same</reg> 
+<lb/>Hide, upon which I <choice><sic>plac'd</sic><corr>placed</corr></choice> my <reg>self</reg> with 
+<lb/>my Baggage ; he <reg>swam</reg> over hawling me 
+<lb/>after him by a Cord <choice><sic>ty'd</sic><corr>tied</corr></choice> to the bundle, 
+<lb/>and then he <reg><choice><sic>repass'd</sic><corr>repassed</corr></choice></reg> and <reg>swam</reg> my <reg>Horses</reg> 
+<lb/>and Mules over to me.
+<lb/>All the Country between the <name type="placeGeog">River 
+<lb/>Recife</name> and <name type="placeGeog">Salladillo</name>, <choice><sic>tho'</sic><corr>though</corr></choice> uninhabited, 
+<lb/>abounds in Cattle and all <reg>sorts</reg> of Fruit 
+<lb/>trees, except Walnut and Chesnut-trees; 
+<lb/>there are whole Woods of Nectarine-
+<lb/>Trees, <measure>Three or Four Leagues</measure> in <reg>compass</reg>, 
+<lb/>that bear excellent Fruit, which they 
+<lb/>not only eat raw, but bake them, or dry 
+<lb/>them in the Sun, to keep, as we in <name type="country">France</name> 
+<lb/>do Prunes: They <reg>seldom</reg> <reg>use</reg> any other 
+<lb/>than the Wood of this Tree for common 
+<lb/>firing at <name type="place">Buenos Ayres</name>, and thereabouts. 
+<lb/>The <rs type="native_group" subtype="colonial_denomination">Savages</rs> that dwell in <reg>these</reg> Parts are 
+<lb/><reg>distinguish'd</reg> into two sorts, those that 
+<lb/>volun-</p>
 </div>
 <!--GRACIELA-->
 <div><p><lb/>voluntarily ſubmit to the Spaniards are <lb/>call’d Panpiſtas, the reſt Serranos, both <lb/>cloathed with Skins, but the laſt ſet up <lb/>on the Panpiſtas as their mortal Enemies <lb/>wherever they meet with them. All <lb/>Fight on Horſe-back, either with Lances <lb/>pointed with Iron or Bones ſharpen'd, <lb/>or else with Bows and Arrows, they <lb/>wear Bulls-hides faſhion'd like a Doublet <lb/>without ſleeves, to defend their Bodies. <lb/>Their Chiefs that command over them <lb/>in War and Peace, are call’d Couracas. <lb/>When they take any one of their Ene<lb/>mies, alive or dead, they meet all toge<lb/>ther, and after they have reproach'd him, <lb/>that either he or his Relations were the <lb/>death of their Kindred or Friends, they <lb/>cut and tear him into pieces, which they <lb/>roaſt a little and eat, making a drinking <lb/>Bowl of his Scull. They feed moſtly <lb/>upon flesh either raw or dreſs'd, and <lb/>particularly Colts fleſh, which they like! <lb/>better than Veal. They catch abundance <lb/>of Fiſh likewiſe in their Rivers, They <lb/>have no ſettled places of aboad, but <lb/>ramble up and down, ſeveral Families <lb/>together, and live in Tents. 

@@ -21,6 +21,7 @@ h2 {
     width: 50%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
+    column-gap: 20px;
 }
 
 .row:after {
@@ -40,4 +41,10 @@ h2 {
  tei-p {
     text-align: justify;
 }
-    
+.column_edition {
+    float: left;
+    width: 50%;
+    column-gap: 30px;
+    padding: 5px;
+
+}    
